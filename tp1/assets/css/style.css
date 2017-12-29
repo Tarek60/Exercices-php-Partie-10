@@ -1,0 +1,39 @@
+
+
+.container {
+background-color: white;
+
+}
+.formulaire table {
+
+
+}
+label {
+text-align: left; 
+}
+
+
+tr {
+  margin-bottom: 5px;
+}
+th {
+  margin: 10px;
+}
+
+label {
+    width: 150px;
+    
+}
+
+.valid {
+    
+}
+
+.space {
+    height: 15px;
+}
+tr {
+    border: 2px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
